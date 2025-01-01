@@ -63,16 +63,3 @@
 </p>
 
 
-## MountainCarContinuous-v0
-
-<p align="center"><strong>Training metrics</strong></p>
-
-<p align="center">여기에 Training metrics 이미지 추가</p>
-
-<p align="center"><strong>Test metrics</strong></p>
-
-<p align="center">여기에 Test metrics 이미지 추가</p>
-
-<p align="center"><strong>Best result</strong></p>
-
-<p align="center">여기에 Best result 이미지 추가</p>
